@@ -1,0 +1,9 @@
+{
+    "input_dim":      [128,128],
+    "latent_dim":     [4,8,16,64,128],
+    "arch":           6,
+    "with_cpu":       false,
+    "n_epochs":       300,
+    "file_save":      "./encoder.h5",
+    "verbose":        true
+}
